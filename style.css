@@ -460,7 +460,9 @@ footer {
     position: fixed; } }
 @media screen and (max-width: 609px) {
   .franchise-div {
-    padding: 1em; }
+    padding: 1em;
+    padding-top: 2em;
+    padding-bottom: 2em; }
     .franchise-div h2 {
       font-size: 30px;
       letter-spacing: 0.1em; }
